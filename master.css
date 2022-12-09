@@ -1,0 +1,180 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style-type: none;
+}
+section{
+    position: relative;
+    width: 1920px;
+    margin: 0 auto;
+}
+.batang{
+    position: relative;
+    width: 1920px;
+    height: 1080px;
+    text-align: center;
+}
+
+.han01{
+    position: absolute;
+    width: 271px;
+    height: 280px;
+    top: 35px;
+    margin-left: 136px;
+    text-align: center;
+}
+
+.han02{
+    position: absolute;
+    width: 884px;
+    height: 749px;
+    top: 26px;
+    right: 0;
+    text-align: center;
+}
+
+.bot01{
+    position: absolute;
+    width: 304px;
+    height: 69px;
+    top: 470px;
+    left: 103px;
+    text-align: center;
+}
+
+.bot02{
+    position: absolute;
+    width: 251px;
+    height: 67px;
+    top: 685px;
+    left: 103px;
+    text-align: center;
+}
+
+.bot03{
+    position: absolute;
+    width: 260px;
+    height: 67px;
+    top: 898px;
+    left: 103px;
+    text-align: center;
+}
+/**sub01**/
+.top1{
+    position: relative;
+    text-align: center;
+}
+
+.back1{
+    position: absolute;
+    width: 59.32px;
+    height: 66.01px;
+    top: 36px;
+    left: 80.3px;
+    text-align: center;
+}
+
+.home{
+    position: absolute;
+    width: 68px;
+    height: 68px;
+    top: 34px;
+    left: 926px;
+    text-align: center;
+}
+
+.next1{
+    position: absolute;
+    width: 59.32px;
+    height: 66.01px;
+    top: 36px;
+    right: 80.3px;
+    text-align: center;
+    z-index: 2;
+}
+
+.pic1{
+    position: relative;
+    margin-top: 89px;
+    margin-left: -1200px;
+    text-align: center;
+}
+
+.name{
+    position: absolute;
+    margin-top: -720px;
+    margin-left: 800px;
+    text-align: center;
+}
+
+.end{
+    position: relative;
+    width: 1920px;
+    height: 145px;
+    top: 200px;
+    text-align: center;
+}
+/**sub02**/
+
+.han03{
+    position: relative;
+    text-align: center;
+    margin-top: 88px;
+    text-align: center;
+}
+
+.han04{
+    position: relative;
+    text-align: center;
+    margin-top: 88px;
+    text-align: center;
+}
+
+.pic2{
+    position: relative;
+    text-align: center;
+    margin-top: 10px;
+    text-align: center;
+}
+
+/**sub03***/
+
+.book1{
+    position: relative;
+    margin-top: 155px;
+    margin-left: 80px;
+}
+
+.han05{
+    position: absolute;
+    top: 330px;
+    right: 80px;
+
+}
+
+.name2{
+    position: relative;
+    margin-top: 450px;
+    text-align: center;
+}
+
+.pic3{
+    position: relative;
+    margin-top: 21px;
+    text-align: center;
+}
+
+.han06{
+    position: relative;
+    margin-top: 81px;
+    text-align: center;
+}
+
+.end1{
+    position: relative;
+    width: 1920px;
+    height: 145px;
+    margin-top: 68px;
+    text-align: center;
+}
